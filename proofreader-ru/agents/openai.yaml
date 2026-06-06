@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proofreader RU"
+  short_description: "Русская корректура без переписывания стиля"
+  default_prompt: "Use $proofreader-ru to proofread this Russian text and fix only mechanical language errors without changing tone, slang, formatting, or typography."

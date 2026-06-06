@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer RU"
+  short_description: "Анти-ИИ очистка русского блог-текста"
+  default_prompt: "Use $humanizer-ru to make this Russian blog-style text sound less AI-generated while preserving its meaning and neutral author voice."

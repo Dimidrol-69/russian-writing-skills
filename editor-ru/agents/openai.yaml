@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editor RU"
+  short_description: "Структурная редактура русского текста"
+  default_prompt: "Use $editor-ru to tighten the structure and clarity of this Russian text without doing anti-AI rewriting or proofreading."
